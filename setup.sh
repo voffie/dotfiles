@@ -1,7 +1,7 @@
 #!/bin/bash
 
 declare -A config_files=(
-	["$HOME/dotfiles/zshrc"]="$HOME/.zsrch"
+	["$HOME/dotfiles/zshrc"]="$HOME/.zshrc"
 	["$HOME/dotfiles/nvim"]="$HOME/.config/nvim"
 	["$HOME/dotfiles/starship.toml"]="$HOME/.config/starship.toml"
 )
